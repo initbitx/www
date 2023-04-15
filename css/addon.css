@@ -1,0 +1,395 @@
+
+.blog_text{
+    font-family: Proxima Nova;
+    font-size: 16px;
+
+}
+.blog_gap{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.blog_heading{
+    font-size: 50px;
+    text-align: center; 
+
+}
+
+.boxy {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #8252fa;
+    border-radius: 20px ;
+    margin-bottom: 10px;
+
+}
+
+.boxy-heading {
+    background-image: linear-gradient(to bottom, #8252fa 0%, #eca2f1 100%);
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius:15px 15px 0px 0px;
+}
+
+.career-sub {
+    margin-top: -20px !important;
+}
+
+#form-bx {
+    border-style: solid !important;
+    border-width: 2px !important;
+    border-color: #F5F5F5 !important;
+    background-color: #f0f0f0 !important;
+    margin-top: -10px !important;
+    margin-bottom:70px !important;
+
+}
+
+.contact_form .primary_btn {
+    margin-bottom: 30px !important;
+}
+
+@media (min-width: 992px) {
+    .mob{
+        height:300px;
+        margin-top: 20px;
+    }
+    .career-girl{
+        height: 260px !important;
+        width: 260px !important;
+        margin-bottom: 10px !important;
+    }
+    .qa-redline {
+        border-bottom: solid 1px !important;
+        border-color: #FF6600 !important;
+        width: 30px !important;
+        margin-left: 10px !important;
+
+    }
+
+    .iot-redline {
+        border-bottom: solid 1px !important;
+        border-color: #FF6600 !important;
+        width: 30px !important;
+        margin-left: 10px;
+
+    }
+    
+
+    .heading {
+        margin-top: 50px;
+    }
+
+    .responsive1 {
+        height: 600px;
+        width: 600px;
+    }
+
+    #slider-img {
+        height: 600px;
+        width: 100%;
+    }
+
+    #mainimg {
+        height: 600px;
+        width: 600px;
+    }
+
+    #mainimg2 {
+        height: 300px;
+        width: 300px;
+        margin-left: 100px;
+    }
+
+    #mainimg4 {
+        height: 600px !important;
+        width: 600px !important;
+        margin-left: 60px !important;
+    }
+
+    #mainimg3 {
+        margin-left: 60px;
+    }
+
+    .boxy {
+        border-style: solid;
+        border-width: 1px;
+        border-color: blueviolet;
+        width: 100%;
+    }
+
+    .boxy-heading {
+        background-image: linear-gradient(to bottom, #8252fa 0%, #eca2f1 100%);
+        color: white;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: -10px !important;
+    }
+
+    .ml-boxy {
+        width: 400px !important;
+        margin-left: 80px !important;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+    .blog-date{
+        float: right;
+    }
+    .blog_heading{
+        font-size: 40px;
+        text-align: center;
+        margin-top: 20px; 
+    
+    }
+    .mob{
+        height:300px;
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
+    .footer_area {
+        margin-top: 40px !important;
+    }
+
+    #form-bx {
+        margin-top: 8px !important;
+    }
+
+    .chatbot-img {
+        height: 500px;
+        margin-left: 80px;
+    }
+
+    .qa-redline {
+        border-bottom: solid 1px !important;
+        border-color: #FF6600 !important;
+        width: 30px !important;
+        margin-left: 50px !important;
+
+    }
+
+    .machine-subheading {
+        margin-top: 5px !important;
+    }
+
+    .iot-redline {
+        border-bottom: solid 1px !important;
+        border-color: #FF6600 !important;
+        width: 30px !important;
+        margin-left: -10px !important;
+
+    }
+
+    .career-girl {
+        height: 300px !important;
+        width: 300px !important;
+        margin-top: 120px !important;
+        margin-left: 180px !important
+        ;
+    }
+
+    .career-boy {
+        height: 300px !important;
+        width: 300px !important;
+        margin-left: 180px !important;
+        margin-top: 20px !important;
+        margin-bottom: 80px !important;
+    }
+
+    #careerimg {
+        height: 500px;
+        width: 500px;
+        margin-left: 120px;
+    }
+
+    #mainimg {
+        height: 500px;
+        width: 500px;
+    }
+
+    .mobility-heading {
+        margin-top: -20px !important;
+    }
+
+    .redline {
+        width: 50px !important;
+        margin-left: 10px !important;
+    }
+
+    .ml-img {
+        margin-top: 20px !important;
+    }
+
+}
+
+@media (min-width: 575px) and (max-width: 767px) {
+    .blog-date{
+        float: right;
+    }
+    .qa-redline {
+        border-bottom: solid 1px !important;
+        border-color: #FF6600 !important;
+        width: 30px !important;
+        margin-left: 50px !important;
+
+    }
+
+    .redline {
+        width: 30px;
+    }
+
+    .career-girl {
+        height: 400px !important;
+        width: 400px !important;
+
+    }
+
+    .career-boy {
+        margin-top: -20px !important;
+    }
+
+}
+
+@media (min-width: 480px) and (max-width: 574px) {
+    .career-boy {
+        margin-bottom: 60px !important;
+    }
+
+    .mobility-heading {
+        margin-top: -40px !important;
+    }
+    .blog_heading{
+        font-size: 38px !important;
+        margin-top: 20px !important;
+    } 
+    
+
+}
+
+
+@media (max-width: 479px) {
+    .blog-date{
+        font-size: 10px;
+    }
+
+    .blog_heading{
+        font-size: 28px !important;
+        margin-top: 20px !important;
+    }  
+   
+    .footer_area {
+        margin-top: 40px !important;
+    }
+
+    #form-bx {
+        margin-top: 8px !important;
+        margin-bottom: 10px !important;
+    }
+
+    .qa-redline {
+        border-bottom: solid 1px !important;
+        border-color: #FF6600 !important;
+        width: 30px !important;
+        margin-left: -7px !important;
+
+    }
+
+    .machine-heading {
+        margin-top: 20px;
+    }
+
+    .machine-subheading {
+        margin-top: 5px !important;
+    }
+
+    .iot-redline {
+        border-bottom: solid 1px !important;
+        border-color: #FF6600 !important;
+        width: 30px !important;
+        margin-left: 10px;
+
+    }
+
+    .redline {
+        margin-top: 5px;
+    }
+
+    .mobility-heading {
+        margin-top: -20px !important;
+    }
+
+    .career-boy {
+        height:300px !important;
+        width: 300px !important;
+        margin-top: 20px !important;
+        margin-bottom: 60px !important;
+        margin-left: 10px !important;
+    }
+
+    .heading {
+        font-family: "Montserrat", sans-serif;
+        font-size: 30px;
+        margin-top: 20px;
+    }
+    .designation{
+        font-family: arial !important;
+        
+    }
+
+    .parallax {
+        /* The image used */
+        background-image: url("../img/career/office.svg") !important;
+
+        /* Set a specific height */
+        min-height: 500px !important;
+
+        /* Create the parallax scrolling effect */
+        background-attachment: fixed !important;
+        background-position: center !important;
+        background-repeat: no-repeat !important;
+        background-size: cover !important;
+        overflow-x: hidden !important;
+    }
+
+    .card {
+        width: 100%;
+        margin-left: -20px;
+    }
+
+    .responsive {
+        width: 100%;
+        height: auto;
+    }
+
+    .heading {
+        font-family: "Montserrat", sans-serif;
+        font-size: 30px;
+        margin-top: 20px;
+        margin-right: 20px !important;
+    }
+
+    .mob {
+        width: 100%;
+        height: auto;
+    }
+
+    .responsive1 {
+        width: 100%;
+    }
+
+    .mob-heading {
+        margin-top: 40px !important;
+    }
+
+    #ar-img {
+        margin-top: -60px !important;
+        margin-bottom: 10px;
+    }
+
+    .mr-0 {
+        margin-right: 0 !important;
+    }
+
+}
+
+
