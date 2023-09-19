@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Initbit | Smart Innovations</title>
-    <link>https://initbithq.github.io/www/</link>
+    <link>https://initbitx.github.io/www/</link>
     <description>Recent content on Initbit | Smart Innovations</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Nov 2019 12:53:20 +0600</lastBuildDate><atom:link href="https://initbithq.github.io/www/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Nov 2019 12:53:20 +0600</lastBuildDate><atom:link href="https://initbitx.github.io/www/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>blog</title>
-      <link>https://initbithq.github.io/www/blog/</link>
+      <link>https://initbitx.github.io/www/blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://initbithq.github.io/www/blog/</guid>
-      <description>Post tags , post tags2  Shiv Shegaji 27/03/2019    Test Blog 
-View More          Post tags , post tags2  Shiv Shegaji 27/03/2019    Test Blog 
-View More          Post tags , post tags2  Shiv Shegaji 27/03/2019    Test Blog 
+
+      <guid>https://initbitx.github.io/www/blog/</guid>
+      <description>Post tags , post tags2  Shiv Shegaji 27/03/2019    Test Blog
+View More          Post tags , post tags2  Shiv Shegaji 27/03/2019    Test Blog
+View More          Post tags , post tags2  Shiv Shegaji 27/03/2019    Test Blog
 View More          Post tags , post tags2  Shiv Shegaji 27/03/2019    Test Blog</description>
     </item>
-    
+
     <item>
       <title>blog</title>
-      <link>https://initbithq.github.io/www/blog/test/</link>
+      <link>https://initbitx.github.io/www/blog/test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://initbithq.github.io/www/blog/test/</guid>
+
+      <guid>https://initbitx.github.io/www/blog/test/</guid>
       <description>blog 1     </description>
     </item>
-    
+
     <item>
       <title>blog</title>
-      <link>https://initbithq.github.io/www/blog/test2/</link>
+      <link>https://initbitx.github.io/www/blog/test2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://initbithq.github.io/www/blog/test2/</guid>
+
+      <guid>https://initbitx.github.io/www/blog/test2/</guid>
       <description>blog 2     </description>
     </item>
-    
+
     <item>
       <title>blog</title>
-      <link>https://initbithq.github.io/www/blog/test3/</link>
+      <link>https://initbitx.github.io/www/blog/test3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://initbithq.github.io/www/blog/test3/</guid>
+
+      <guid>https://initbitx.github.io/www/blog/test3/</guid>
       <description>blog 3     For Heading
 h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading For Horizantal Rule
  </description>
     </item>
-    
+
   </channel>
 </rss>
